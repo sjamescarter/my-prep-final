@@ -7,6 +7,10 @@ h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .wrapper {
     max-width: 1170px;
     margin: auto;
@@ -21,6 +25,10 @@ h2 {
     background-color: #3e65af;
     display: block;
     padding: 2.5%;
+}
+
+#music, #ministry, #coding {
+    display: none;
 }
 
 .content {
