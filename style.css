@@ -14,3 +14,19 @@ h2 {
     display: block;
     padding: 25px;
 }
+
+.menu {
+    width: 25%;
+    float: left;
+    background-color: #3e65af;
+    display: block;
+    padding: 2.5%;
+}
+
+.content {
+    width: 65%;
+    float: left;
+    background-color: #3eaf5a;
+    display: block;
+    padding: 2.5%;
+}
