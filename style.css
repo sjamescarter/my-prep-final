@@ -24,6 +24,10 @@ p {
     padding: 10px;
 }
 
+li {
+    font-family: 'Ubuntu';
+}
+
 #wrapper {
     max-width: 1170px;
     margin: auto;
