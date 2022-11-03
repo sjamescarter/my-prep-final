@@ -2,7 +2,7 @@ const wrapper = document.getElementById('wrapper');
 const content = document.getElementById('content');
 
 function autoHeight() {
-    wrapper.style.height = content.clientHeight + "px";
+    wrapper.style.height = content.clientHeight - 100 + "px";
 }
 
 autoHeight();
